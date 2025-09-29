@@ -24,7 +24,7 @@
 
 本文的工程文件**开源地址**如下（基于**PGL50H-6FBG484**，大家 **clone** 到本地就可以直接跑仿真，如果要上板请根据自己的开发板更改约束即可）：
 
-> [https://github.com/RyanFPGA](https://github.com/RyanFPGA)
+[https://github.com/RyanFPGA/PDS_Sim_Binaryzation](https://github.com/RyanFPGA/PDS_Sim_Binaryzation)
 
 
 
